@@ -1,0 +1,41 @@
+body {
+  background-color: rgb(34, 35, 36);
+  padding-top: 50px;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+h1 {
+  color: rgb(163, 163, 163);
+  font-family: verdana;
+  text-align: left;
+
+}
+h2 {
+  color: rgb(163, 163, 163);
+  font-family: verdana;
+  text-align: left;
+}
+
+h3 {
+  color: rgb(163, 163, 163);
+  font-family: verdana;
+  text-align: left;
+}
+
+p {
+  color: rgb(163, 163, 163);
+  font-family: verdana;
+  text-align:　left;
+}
+
+a {
+  color: rgb(96, 157, 168);
+  font-family: verdana;
+  text-align:　left;
+}
+
+.link-style {
+  color: rgb(96, 157, 168);
+  font-family: verdana;
+  text-align:　left;
+}
